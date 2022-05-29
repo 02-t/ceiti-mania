@@ -1,0 +1,64 @@
+B:\..C#\ceiti!mania\ceiti!mania\bin\Debug\ceiti!mania.exe.config
+B:\..C#\ceiti!mania\ceiti!mania\bin\Debug\ceiti!mania.exe
+B:\..C#\ceiti!mania\ceiti!mania\bin\Debug\ceiti!mania.pdb
+B:\..C#\ceiti!mania\ceiti!mania\obj\Debug\ceiti_mania.MainForm.resources
+B:\..C#\ceiti!mania\ceiti!mania\obj\Debug\ceiti!mania.csproj.GenerateResource.Cache
+B:\..C#\ceiti!mania\ceiti!mania\obj\Debug\ceiti!mania.exe
+B:\..C#\ceiti!mania\ceiti!mania\obj\Debug\ceiti!mania.pdb
+B:\..C#\ceiti!mania2\ceiti!mania\bin\Debug\ceiti!mania.exe.config
+B:\..C#\ceiti!mania2\ceiti!mania\bin\Debug\ceiti!mania.exe
+B:\..C#\ceiti!mania2\ceiti!mania\bin\Debug\ceiti!mania.pdb
+B:\..C#\ceiti!mania2\ceiti!mania\obj\Debug\ceiti!mania.csprojResolveAssemblyReference.cache
+B:\..C#\ceiti!mania2\ceiti!mania\obj\Debug\ceiti_mania.MainForm.resources
+B:\..C#\ceiti!mania2\ceiti!mania\obj\Debug\ceiti!mania.csproj.GenerateResource.Cache
+B:\..C#\ceiti!mania2\ceiti!mania\obj\Debug\ceiti!mania.exe
+B:\..C#\ceiti!mania2\ceiti!mania\obj\Debug\ceiti!mania.pdb
+B:\..C#\ceiti!mania\ceiti!mania\obj\Debug\ceiti!mania.csproj.AssemblyReference.cache
+B:\..C#\ceiti!mania\ceiti!mania\obj\Debug\ceiti!mania.csproj.SuggestedBindingRedirects.cache
+B:\..C#\ceiti!mania\ceiti!mania\obj\Debug\ceiti!mania.csproj.CoreCompileInputs.cache
+B:\..C#\ceiti!mania\ceiti!mania\obj\Debug\ceiti_mania.Properties.Resources.resources
+B:\..C#\ceiti!mania\ceiti!mania\obj\Debug\ceiti_mania.SongSelect.resources
+B:\.Main\.C#\ceiti!mania\ceiti!mania\bin\Debug\ceiti!mania.exe.config
+B:\.Main\.C#\ceiti!mania\ceiti!mania\bin\Debug\ceiti!mania.exe
+B:\.Main\.C#\ceiti!mania\ceiti!mania\bin\Debug\ceiti!mania.pdb
+B:\.Main\.C#\ceiti!mania\ceiti!mania\obj\Debug\ceiti!mania.csproj.AssemblyReference.cache
+B:\.Main\.C#\ceiti!mania\ceiti!mania\obj\Debug\ceiti!mania.csproj.SuggestedBindingRedirects.cache
+B:\.Main\.C#\ceiti!mania\ceiti!mania\obj\Debug\ceiti_mania.MainForm.resources
+B:\.Main\.C#\ceiti!mania\ceiti!mania\obj\Debug\ceiti_mania.Properties.Resources.resources
+B:\.Main\.C#\ceiti!mania\ceiti!mania\obj\Debug\ceiti_mania.SongSelect.resources
+B:\.Main\.C#\ceiti!mania\ceiti!mania\obj\Debug\ceiti!mania.csproj.GenerateResource.cache
+B:\.Main\.C#\ceiti!mania\ceiti!mania\obj\Debug\ceiti!mania.csproj.CoreCompileInputs.cache
+B:\.Main\.C#\ceiti!mania\ceiti!mania\obj\Debug\ceiti!mania.exe
+B:\.Main\.C#\ceiti!mania\ceiti!mania\obj\Debug\ceiti!mania.pdb
+D:\ceiti!mania\ceiti!mania\bin\Debug\ceiti!mania.exe.config
+D:\ceiti!mania\ceiti!mania\bin\Debug\ceiti!mania.exe
+D:\ceiti!mania\ceiti!mania\bin\Debug\ceiti!mania.pdb
+D:\ceiti!mania\ceiti!mania\obj\Debug\ceiti!mania.csproj.AssemblyReference.cache
+D:\ceiti!mania\ceiti!mania\obj\Debug\ceiti!mania.csproj.SuggestedBindingRedirects.cache
+D:\ceiti!mania\ceiti!mania\obj\Debug\ceiti_mania.MainForm.resources
+D:\ceiti!mania\ceiti!mania\obj\Debug\ceiti_mania.Properties.Resources.resources
+D:\ceiti!mania\ceiti!mania\obj\Debug\ceiti_mania.SongSelect.resources
+D:\ceiti!mania\ceiti!mania\obj\Debug\ceiti!mania.csproj.GenerateResource.cache
+D:\ceiti!mania\ceiti!mania\obj\Debug\ceiti!mania.csproj.CoreCompileInputs.cache
+D:\ceiti!mania\ceiti!mania\obj\Debug\ceiti!mania.exe
+D:\ceiti!mania\ceiti!mania\obj\Debug\ceiti!mania.pdb
+B:\.Main\.C#\ceiti!mania 2\ceiti!mania\bin\Debug\ceiti!mania.exe.config
+B:\.Main\.C#\ceiti!mania 2\ceiti!mania\bin\Debug\ceiti!mania.exe
+B:\.Main\.C#\ceiti!mania 2\ceiti!mania\bin\Debug\ceiti!mania.pdb
+B:\.Main\.C#\ceiti!mania 2\ceiti!mania\obj\Debug\ceiti!mania.csproj.AssemblyReference.cache
+B:\.Main\.C#\ceiti!mania 2\ceiti!mania\obj\Debug\ceiti!mania.csproj.SuggestedBindingRedirects.cache
+B:\.Main\.C#\ceiti!mania 2\ceiti!mania\obj\Debug\ceiti_mania.MainForm.resources
+B:\.Main\.C#\ceiti!mania 2\ceiti!mania\obj\Debug\ceiti_mania.Properties.Resources.resources
+B:\.Main\.C#\ceiti!mania 2\ceiti!mania\obj\Debug\ceiti_mania.SongSelect.resources
+B:\.Main\.C#\ceiti!mania 2\ceiti!mania\obj\Debug\ceiti!mania.csproj.GenerateResource.cache
+B:\.Main\.C#\ceiti!mania 2\ceiti!mania\obj\Debug\ceiti!mania.csproj.CoreCompileInputs.cache
+B:\.Main\.C#\ceiti!mania 2\ceiti!mania\obj\Debug\ceiti!mania.exe
+B:\.Main\.C#\ceiti!mania 2\ceiti!mania\obj\Debug\ceiti!mania.pdb
+B:\.Main\.C#\ceiti!mania\ceiti!mania\obj\Debug\Interop.MediaPlayer.dll
+B:\.Main\.C#\ceiti!mania\ceiti!mania\obj\Debug\Interop.WMLSS.dll
+B:\.Main\.C#\ceiti!mania\ceiti!mania\obj\Debug\Interop.WMPDXMLib.dll
+B:\.Main\.C#\ceiti!mania\ceiti!mania\obj\Debug\Interop.WMPLauncher.dll
+B:\.Main\.C#\ceiti!mania\ceiti!mania\obj\Debug\Interop.WMPLib.dll
+B:\.Main\.C#\ceiti!mania\ceiti!mania\obj\Debug\ceiti!mania.csproj.ResolveComReference.cache
+B:\.Main\.C#\ceiti!mania\ceiti!mania\obj\Debug\ceiti_mania.LoginForm.resources
+B:\.Main\.C#\ceiti!mania\ceiti!mania\obj\Debug\ceiti_mania.admin.resources
